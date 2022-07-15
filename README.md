@@ -1,3 +1,3 @@
 # digit_recognition
 
-simple MHIST digit recognition
+simple MNIST digit recognition
